@@ -30,17 +30,29 @@ For example a puzzle may look like this:
 The Pattern: 120098357764000000589000000120098357764000000589000000120098357764000000589000000
 
 |- - -|- - -|- - -|
+
 |1 2  |  9 8|3 5 7|
+
 |7 6 4|     |     |
+
 |5 8 9|     |     |
+
 |- - -|- - -|- - -|
+
 |1 2  |  9 8|3 5 7|
+
 |7 6 4|     |     |
+
 |5 8 9|     |     |
+
 |- - -|- - -|- - -|
+
 |1 2  |  9 8|3 5 7|
+
 |7 6 4|     |     |
+
 |5 8 9|     |     |
+
 |- - -|- - -|- - -|
 
 Zeros have been used in the Pattern string to represent a space or non-number. You can use whichever you need.
